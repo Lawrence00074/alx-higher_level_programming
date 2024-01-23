@@ -1,10 +1,7 @@
 #!/usr/bin/python3
-"""
-    Module 0-square
-    It defines an empty class called Square
-"""
+"""Filename: 0-square"""
 
 
 class Square:
-   """This defines an empty Square class"""
-    pass
+    """An empty Square that defines a square."""
+    pass    

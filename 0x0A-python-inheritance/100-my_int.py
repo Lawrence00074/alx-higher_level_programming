@@ -32,4 +32,5 @@ class MyInt(int):
     def __ne__(self, value):
         """Return the inverted result of the non-equality operation
         of the int
-        """return (self.num == value)
+        """
+        return (self.num == value)
